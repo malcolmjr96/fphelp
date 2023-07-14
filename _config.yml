@@ -31,6 +31,12 @@ url: "forum-promotion.github.io" # the base hostname & protocol for your site, e
 twitter_username: jekyllrb
 github_username:  jekyll
 color_scheme: dark
+mermaid:
+    version: "9.1.3"
+
+aux_links:
+  "FP on GitHub!":
+    - "//github.com/Forum-Promotion"
 
 # Build settings
 theme: just-the-docs
