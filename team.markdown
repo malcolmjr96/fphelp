@@ -9,7 +9,7 @@ nav_order: 4
 
 | Team        | Members     |
 |:-------------|:------------------|
-| Ownership      | good swedish fish |
+| Ownership      | - Cam Taylor - Malcolm |
 | Administration | good and plenty   |
 | Community Team | good `oreos`      |
 | Package Team   | good `zoute` drop |
