@@ -1,12 +1,22 @@
 ---
 layout: page
-title: Meet the team
+title: Meet the Team
 permalink: /team/
 nav_order: 4
 ---
 
 # Meet the current [staff members](https://community.forumpromotion.net/members/?key=staff_members) of Forum Promotion.
 
+| Team        | Members     |
+|:-------------|:------------------|
+| Ownership      | good swedish fish |
+| Administration | good and plenty   |
+| Community Team | good `oreos`      |
+| Package Team   | good `zoute` drop |
+| Marketing Team   | good `zoute` drop |
+| Review Team   | good `zoute` drop |
+| Graphics Team   | good `zoute` drop |
+| Editorial Team   | good `zoute` drop |
 
 ## Owner
 - Cameron Taylor
