@@ -7,16 +7,51 @@ nav_order: 4
 
 # Meet the current [staff members](https://community.forumpromotion.net/members/?key=staff_members) of Forum Promotion.
 
-| Team        | Members     |
-|:-------------|:------------------|
-| Ownership      | <ul><li>Cameron Taylor</li><li>Malcolm</li></ul> |
-| Administration | good and plenty   |
-| Community Team | good `oreos`      |
-| Package Team   | good `zoute` drop |
-| Marketing Team   | good `zoute` drop |
-| Review Team   | good `zoute` drop |
-| Graphics Team   | good `zoute` drop |
-| Editorial Team   | good `zoute` drop |
+<table>
+  <tbody>
+    <tr>
+      <th>Team</th>
+      <th align="center">Members</th>
+    </tr>
+    <tr>
+      <td>Ownership</td>
+      <td align="center">
+        <ul>
+          <li>Cameron Taylor</li>
+          <li>Malcolm</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Administration</td>
+      <td align="center">
+        <ul>
+          <li>Katrina</li>
+          <li>PGen98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Community Team</td>
+      <td align="center">
+        <ul>
+          <li>Wessel</li>
+          <li>Gigi</li>
+        </ul>
+      <td align="right">$1</td>
+    </tr>
+      <tr>
+      <td>Package Team</td>
+      <td align="center">
+        <ul>
+          <li>Wessel</li>
+          <li>Gigi</li>
+        </ul>
+      <td align="right">$1</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Owner
 - Cameron Taylor
