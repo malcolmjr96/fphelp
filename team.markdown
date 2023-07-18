@@ -35,10 +35,9 @@ nav_order: 4
       <td>Community Team</td>
       <td align="center">
         <ul>
-          <li>Wessel</li>
-          <li>Gigi</li>
+          <li>Wessel (CTL)</li>
+          <li>Gigi (CTLA)</li>
         </ul>
-      <td align="right">$1</td>
     </tr>
       <tr>
       <td>Package Team</td>
@@ -47,7 +46,6 @@ nav_order: 4
           <li>Wessel</li>
           <li>Gigi</li>
         </ul>
-      <td align="right">$1</td>
     </tr>
   </tbody>
 </table>
