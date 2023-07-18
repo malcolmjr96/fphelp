@@ -38,14 +38,16 @@ nav_order: 4
           <li>Wessel (CTL)</li>
           <li>Gigi (CTLA)</li>
         </ul>
+      </td>
     </tr>
-      <tr>
+    <tr>
       <td>Package Team</td>
       <td align="center">
         <ul>
           <li>Wessel</li>
           <li>Gigi</li>
         </ul>
+      </td>
     </tr>
   </tbody>
 </table>
